@@ -1,0 +1,29 @@
+.dayfilter {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.filter-title {
+  color: #08b1f9;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.label-wrapper {
+  display: flex;
+  column-gap: 25px;
+}
+.filter-label {
+  margin-bottom: 15px;
+
+  font-size: 20px;
+}
+.filter-input {
+  margin-right: 10px;
+}
+@media screen and (max-width: 768px) {
+  .label-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}

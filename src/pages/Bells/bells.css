@@ -1,0 +1,76 @@
+.bells {
+  height: auto;
+}
+.bells #heading {
+  text-align: left;
+  padding: 0;
+}
+.bells .left img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.bells .right {
+  padding: 80px 50px;
+}
+.bells .items {
+  margin-top: 50px;
+  width: 80%;
+  margin: auto;
+}
+.bells .item {
+  background-color: #fff;
+  margin-top: 30px;
+  padding: 20px;
+  transition: 0.5s;
+}
+.bells .img {
+  margin-right: 20px;
+}
+.bells img {
+  width: 70px;
+  height: 70px;
+}
+.bells .item .text {
+  font-size: 20px;
+  color: #3fb4e6;
+}
+.bells .item:hover {
+  background-color: #3fb4e6;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 5px 25px -2px rgb(0 0 0 /6%);
+  .text {
+    color: #fff;
+  }
+}
+
+.itemflex {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+  .bells .container {
+    flex-direction: column-reverse;
+  }
+  .bells .row {
+    width: 100%;
+  }
+  .bells .right {
+    padding: 0px 15px 0px 15px;
+  }
+  .left.row img {
+    display: none;
+  }
+  .bells .items {
+    width: 90%;
+  }
+  .bells .item .text {
+    font-size: 16px;
+  }
+  .bells .item {
+    margin-top: 10px;
+  }
+}

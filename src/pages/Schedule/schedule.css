@@ -1,0 +1,8 @@
+.schedule {
+  margin-bottom: 50px;
+}
+.scheduleFlex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

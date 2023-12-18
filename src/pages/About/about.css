@@ -1,0 +1,102 @@
+.about {
+  margin-bottom: 50px;
+}
+.about .container {
+  max-width: 70%;
+  border-radius: 5px;
+}
+.about .box {
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+.about button {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px 20px;
+}
+.about ol {
+  padding-left: 30px;
+  list-style-type: decimal;
+}
+.about li {
+  margin-bottom: 10px;
+  list-style-type: decimal;
+}
+.about .text {
+  display: flex;
+  flex-direction: column;
+}
+.about .contentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.video-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.video-container iframe {
+  width: 560px;
+  height: 315px;
+  margin-bottom: 20px;
+}
+.about h2 {
+  font-weight: 500;
+}
+.about p {
+  padding: 20px;
+}
+.about .accordion:hover {
+  background-color: #3fb4e6;
+  color: #fff;
+}
+
+.scroll-to-top {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 20px;
+  right: 20px;
+  background-color: #3fb4e6;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.scroll-to-top:focus {
+  outline: none;
+}
+.scroll-to-top i {
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .about .container {
+    max-width: 90%;
+    border-radius: 5px;
+  }
+  .video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .video-container iframe {
+    width: 380px;
+    height: 218px;
+    margin-bottom: 20px;
+  }
+}

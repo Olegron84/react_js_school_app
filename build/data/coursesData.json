@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "class": "1-А клас",
+    "subjects": [
+      {
+        "name": "Математика",
+        "code": "xg5yb",
+        "teacher": "Іванова М.В.",
+        "email": "ivanova.gmail.com"
+      },
+      {
+        "name": "Українська мова",
+        "code": "xg5q5y58b",
+        "teacher": "Хромова М.В.",
+        "email": "hromova.gmail.com"
+      },
+      {
+        "name": "Малювання",
+        "code": "111q5y5b",
+        "teacher": "Петрова М.В.",
+        "email": "petrova.gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "class": "1-Б клас",
+    "subjects": [
+      {
+        "name": "Математика",
+        "code": "xg565698",
+        "teacher": "Твердохліб М.В.",
+        "email": "ivanova.gmail.com"
+      },
+      {
+        "name": "Українська мова",
+        "code": "xg5556899",
+        "teacher": "Курганська М.В.",
+        "email": "hromova.gmail.com"
+      },
+      {
+        "name": "Малювання",
+        "code": "1896545yb",
+        "teacher": "Луценко М.В.",
+        "email": "petrova.gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "class": "2-А клас",
+    "subjects": [
+      {
+        "name": "Фізична культура",
+        "code": "1115555b",
+        "teacher": "Твердохліб М.В.",
+        "email": "ivanova.gmail.com"
+      },
+      {
+        "name": "Малювання",
+        "code": "x56897",
+        "teacher": "Курганська М.В.",
+        "email": "hromova.gmail.com"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "11235684",
+        "teacher": "Луценко М.В.",
+        "email": "petrova.gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "class": "2-Б клас",
+    "subjects": [
+      {
+        "name": "Фізична культура",
+        "code": "xg777777yb6",
+        "teacher": "Твердохліб М.В.",
+        "email": "ivanova.gmail.com"
+      },
+      {
+        "name": "Малювання",
+        "code": "xg5689y7",
+        "teacher": "Курганська М.В.",
+        "email": "hromova.gmail.com"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "1115555b",
+        "teacher": "Луценко М.В.",
+        "email": "petrova.gmail.com"
+      }
+    ]
+  }
+]

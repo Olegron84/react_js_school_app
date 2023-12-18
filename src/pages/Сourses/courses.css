@@ -1,0 +1,34 @@
+.coursesFlex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.courses_left {
+  padding: 10px;
+}
+.courses_left img {
+  width: 100%;
+  height: auto;
+}
+.courses_right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .courses_left {
+    padding: 0px;
+  }
+  .courses_right {
+    padding: 0px;
+  }
+  .courses .grid2 {
+    display: block;
+    margin-bottom: 15px;
+  }
+  .courses img {
+    padding-bottom: 15px;
+  }
+}

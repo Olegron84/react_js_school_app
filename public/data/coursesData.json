@@ -1,0 +1,2966 @@
+[
+  {
+    "id": 1,
+    "class": "1-А клас",
+    "subjects": [
+      {
+        "name": "Українська мова. Навчання грамоти",
+        "code": "rt4yl37",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "ztst7p4",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "http://meet.google.com/xkr-grve-vbb",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "rt4yl37",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "rt4yl37",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "rt4yl37",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "x7rmat4",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/efc-pwsb-qxd",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "rt4yl37",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "class": "1-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова. Навчання грамоти",
+        "code": "tesx62d",
+        "teacher": "Кондратьєва Людмила Олександрівна ",
+        "email": "kondratievalyuda@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72703091047?pwd=sbwBRttauDLKArBWRap74QKdpZJ55e.1",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "eyc6zhu",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "tesx62d",
+        "teacher": "Кондратьєва Людмила Олександрівна",
+        "email": "kondratievalyuda@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72703091047?pwd=sbwBRttauDLKArBWRap74QKdpZJ55e.1",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "tesx62d",
+        "teacher": "Кондратьєва Людмила Олександрівна",
+        "email": "kondratievalyuda@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72703091047?pwd=sbwBRttauDLKArBWRap74QKdpZJ55e.1",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "tesx62d",
+        "teacher": "Кондратьєва Людмила Олександрівна",
+        "email": "kondratievalyuda@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72703091047?pwd=sbwBRttauDLKArBWRap74QKdpZJ55e.1",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Мистецтво",
+        "code": "hythz3i",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/tnf-qmwh-oxu",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "tesx62d",
+        "teacher": "Кондратьєва Людмила Олександрівна",
+        "email": "kondratievalyuda@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72703091047?pwd=sbwBRttauDLKArBWRap74QKdpZJ55e.1",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "class": "2-А клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Читання",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "puneoru",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://meet.google.com/xkr-grve-vbb",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Інформатика",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "t.kartukova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "453 211 7350",
+        "access": "12345"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "class": "2-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "oprucip",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Читання",
+        "code": "guuvhdg",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "puneoru",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "http://meet.google.com/xkr-grve-vbb",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "rd5ak6f",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "bp3b3kt",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "bp3b3kt",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Інформатика",
+        "code": "bp3b3kt",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "bp3b3kt",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "аseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "631 203 1148",
+        "access": "m4P83c"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "class": "3-А клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "5rwxi2q",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Літературне читання",
+        "code": "sbdn7lq",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "jb6pufv",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "edjo2yv",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "e73s6o2",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Інформатика",
+        "code": "vllu3st",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "fqpia5i",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09",
+        "identifier": "573 904 6460",
+        "access": "LRC9Lp"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "class": "3-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "crbd2hb",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Літературне читання",
+        "code": "atcf5qb",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "jb6pufv",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Математика",
+        "code": "fj6lgai",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "dhwtd7z",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Інформатика",
+        "code": "4p5k6io",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "qzvpflf",
+        "teacher": "Коваленко Антоніна Вікторівна",
+        "email": "antoninas1995@gmail.com",
+        "conference": "https://us05web.zoom.us/j/8853373359?pwd=dm85bmhid2tmQzJYVnUvMzlyd3o4Zz09",
+        "identifier": "885 337 3359",
+        "access": "Na8F2E"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "class": "4-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "mj3ptnu",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Літературне читання",
+        "code": "3uz6xtd",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "eezvm3r",
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
+      },
+      {
+        "name": "Математика",
+        "code": "wnmoj45",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "3yspbv2",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Інформатика",
+        "code": "rfyjgje",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "hka6vx4",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "585 303 6465",
+        "access": "12345"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "class": "4-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "bpqbvkt",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Літературне читання",
+        "code": "yjttci7",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "dx3p4xa",
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
+      },
+      {
+        "name": "Математика",
+        "code": "4deqkkw",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "b4nbals",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Інформатика",
+        "code": "2hvoz3x",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "bdoogwq",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "773 1918 0816",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Фізична культура",
+        "code": "",
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "class": "5-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "64al3o4",
+        "teacher": "Глущенко Ольга Ігорівна",
+        "email": "olqaclassworld@qmail.com",
+        "conference": "https://us04web.zoom.us/j/9307123449?pwd=dXlhUEkxOWNiYytoMWxYcHMzcS9zdz09",
+        "identifier": "930 712 3449",
+        "access": "5678"
+      },
+      {
+        "name": "Українська література",
+        "code": "4cqvdyі",
+        "teacher": "Глущенко Ольга Ігорівна",
+        "email": "olqaclassworld@qmail.com",
+        "conference": "https://us04web.zoom.us/j/9307123449?pwd=dXlhUEkxOWNiYytoMWxYcHMzcS9zdz09",
+        "identifier": "930 712 3449",
+        "access": "5678"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "atsgxtr",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "979 768 8285",
+        "access": "Hh9yKU"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "v6iy5wy",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Математика",
+        "code": "pz2pcdc",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/huq-xbie-kuf",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Інтегрований курс «Пізнаємо природу»",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "721 1910 2055",
+        "access": "6s9zrJ"
+      },
+      {
+        "name": "Етика (курс за вибором)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "721 1910 2055",
+        "access": "6s9zrJ"
+      },
+      {
+        "name": "Вступ до історії України та громадянської освіти",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "721 1910 2055",
+        "access": "6s9zrJ"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Технології",
+        "code": "6itvmqk",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "tydyxnu",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": " fzxaojy",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "meet.google.com/whv-hjcs-uxs",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "hjgx4cc",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82043057999?pwd=N1RKwNwMWZcS8Z0Pdb6bUn3BYn7TcM.1",
+        "identifier": "820 4305 7999",
+        "access": "mQq8Nc"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "class": "5-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "sjblgka",
+        "teacher": "Глущенко Ольга Ігорівна",
+        "email": "olqaclassworld@qmail.com",
+        "conference": "https://us04web.zoom.us/j/9307123449?pwd=dXlhUEkxOWNiYytoMWxYcHMzcS9zdz09",
+        "identifier": "9307123449",
+        "access": "5678"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Омельчак Євгенія Геннадіївна",
+        "email": "khlycee140@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Омельчак Євгенія Геннадіївна",
+        "email": "khlycee140@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "s5norbn",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Математика",
+        "code": "juxemyb",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Інтегрований курс «Пізнаємо природу»",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
+        "code": "5pmp2ay",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      },
+      {
+        "name": "Етика (курс за вибором)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Вступ до історії України та громадянської освіти",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Інформатика",
+        "code": "juxemyb",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Технології",
+        "code": "6itvmqk",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "u4c2ny2",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "hcvhrol",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/vmr-yprn-ewt",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "jz6ilbw",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82923897104?pwd=sOYsTTdaSmEQby9ByuMuVKrgKz3o8s.1",
+        "identifier": "829 2389 7104",
+        "access": "1Pd6HM"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "class": "5-В клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "Завдання на платформі Human",
+        "teacher": "Дараган Вікторія Володимирівна",
+        "email": "khlycee140@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6084256148?pwd=dW1tNHZoK0Z4NURwQVcxT2xyVnlhUT09",
+        "identifier": "608 425 6148",
+        "access": "7stprM"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Дараган Вікторія Володимирівна",
+        "email": "khlycee140@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6084256148?pwd=dW1tNHZoK0Z4NURwQVcxT2xyVnlhUT09",
+        "identifier": "608 425 6148",
+        "access": "7stprM"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://meet.google.com/xkr-grve-vbb",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "joulubh",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Математика",
+        "code": "pz2pcdc",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/huq-xbie-kuf",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Інтегрований курс «Пізнаємо природу»",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
+        "code": "5pmp2ay",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      },
+      {
+        "name": "Етика (курс за вибором)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Вступ до історії України та громадянської освіти",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Технології",
+        "code": "6itvmqk",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "wcbuc6b",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "mbvgnik",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/vdv-msrg-chk",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "bujxokg",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81011815389?pwd=xRnzkA1lSnfCNdcSYhHUIRenSvHfJQ.1",
+        "identifier": "810 1181 5389",
+        "access": "qjCnx9"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "class": "6-А клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "u36qe3e",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Українська література",
+        "code": "dnr6wlo",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Омельчак Євгенія Геннадіївна",
+        "email": "khlycee140@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "4mezerd",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Математика",
+        "code": "bbich4x",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86770434259?pwd=WlV6bDU3cVByL2FnSWp6cFkvUTEvUT09",
+        "identifier": "867 7043 4259",
+        "access": "686766"
+      },
+      {
+        "name": "Інтегрований курс «Пізнаємо природу»",
+        "code": "n5n4oyx",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
+        "code": "ziq2dcg",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      },
+      {
+        "name": "Етика (курс за вибором)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Історія України. Всесвітня історія",
+        "code": "tblibxx",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/77450206596?pwd=f52aAO55Lpd3TQomiQd1mWC2eLXHTr.1",
+        "identifier": "774 5020 6596",
+        "access": "0kXTH0"
+      },
+      {
+        "name": "Технології",
+        "code": "gzysjzw",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "scx7egd",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "mvw3rwp",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/csr-xjmw-vgs",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "et6uxfy",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/83202523104?pwd=XtOjacaUkaFGCYBGceyRMyXlstCfp5.1",
+        "identifier": "832 0252 3104",
+        "access": "5TLf9T"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "class": "6-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "lkooj34",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Українська література",
+        "code": "7nrgnzm",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "n4a7bo7",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "jyp6hs2",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Математика",
+        "code": "2muvvty",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86770434259?pwd=WlV6bDU3cVByL2FnSWp6cFkvUTEvUT09",
+        "identifier": "867 7043 4259",
+        "access": "686766"
+      },
+      {
+        "name": "Інтегрований курс «Пізнаємо природу»",
+        "code": "q5yayle",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
+        "code": "ziq2dcg",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      },
+      {
+        "name": "Етика (курс за вибором)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Історія України. Всесвітня історія",
+        "code": "tblibxx",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73894690788?pwd=8KKAmHns3FvcyTEI0u8ldOBmpntv6p.1",
+        "identifier": "738 9469 0788",
+        "access": "6QUWg3"
+      },
+      {
+        "name": "Технології",
+        "code": "gzysjzw",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "zjtb2wn",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "vnjzdca",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/vpc-fzfs-vko",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "voytt6u",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82811420463?pwd=KQIEu2iqyN1zSM9bzgPLC9ONhQZde4.1",
+        "identifier": "828 1142 0463",
+        "access": "aNWMn4"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "class": "7-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "2i2uyoq",
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "ukjl4qk",
+        "teacher": "Калугіна Лариса  Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Алгебра",
+        "code": "6dh6rou",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86597916080?pwd=RlFCUjFTeG1LTzJGY3JjSTFNYVkrZz09",
+        "identifier": "865 9791 6080",
+        "access": "117211"
+      },
+      {
+        "name": "Геометрія",
+        "code": "6dh6rou",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86597916080?pwd=RlFCUjFTeG1LTzJGY3JjSTFNYVkrZz09",
+        "identifier": "865 9791 6080",
+        "access": "117211"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "kphpdav",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "xiifwn7",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/rrx-jqjf-srg",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Трудове навчання",
+        "code": "zgb7txx",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "xbo2id6",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "sofcmh6",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/wir-crin-dcw",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "7vpioeg",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81150325158?pwd=zZ8pQQYz8kvf90xSuXrzmFBnlx2YjM.1",
+        "identifier": "811 5032 5158",
+        "access": "TUgrL9"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "hjce4eq",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "class": "7-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "63qqt3k",
+        "teacher": "Глущенко Ольга Ігорівна",
+        "email": "olqaclassworld@qmail.com",
+        "conference": "https://us04web.zoom.us/j/9307123449?pwd=dXlhUEkxOWNiYytoMWxYcHMzcS9zdz09",
+        "identifier": "9307123449",
+        "access": "5678"
+      },
+      {
+        "name": "Українська література",
+        "code": "vgmvwjx",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "76njmeg",
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "ukjl4qk",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Алгебра",
+        "code": "asnmymt",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86597916080?pwd=RlFCUjFTeG1LTzJGY3JjSTFNYVkrZz09",
+        "identifier": "865 9791 6080",
+        "access": "117211"
+      },
+      {
+        "name": "Геометрія",
+        "code": "asnmymt",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/86597916080?pwd=RlFCUjFTeG1LTzJGY3JjSTFNYVkrZz09",
+        "identifier": "865 9791 6080",
+        "access": "117211"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "h3rw3wd",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/78764852348?pwd=kHYmN6O4wRu9yaU1KbQFyOy575uj4a.1",
+        "identifier": "787 6485 2348",
+        "access": "5qqG9k"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "xiifwn7",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/rrx-jqjf-srg",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Трудове навчання",
+        "code": "zgb7txx",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Образотворче мистецтво",
+        "code": "wq7ncyz",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Музичне мистецтво",
+        "code": "q3s3wta",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/dyt-hbfg-rnz",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "lfsselv",
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "https://us05web.zoom.us/j/88215695735?pwd=OxYy1u2RbsSDGpWZsqiAY9yueegGEe.1",
+        "identifier": "882 1569 5735",
+        "access": "vR3Ziu"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "hjce4eq",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "class": "8-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "k66jcpa",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
+      },
+      {
+        "name": "Українська література",
+        "code": "kacntwf",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "494 314 2504",
+        "access": "111111"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "ske3vhl",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Алгебра",
+        "code": "hwcuehc",
+        "teacher": "Чуприна Ганна Василівна",
+        "email": "chuprinaanna1973@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7806047715?pwd=dU4yK3hsK0NkVU44NHVnS1lRckRyZz09",
+        "identifier": "780 604 7715",
+        "access": "E3pHGA"
+      },
+      {
+        "name": "Геометрія",
+        "code": "c7r7aqv",
+        "teacher": "Чуприна Ганна Василівна",
+        "email": "chuprinaanna1973@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7806047715?pwd=dU4yK3hsK0NkVU44NHVnS1lRckRyZz09",
+        "identifier": "780 604 7715",
+        "access": "E3pHGA"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "ylaj72w",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76603213991?pwd=phETKRSavGurDgJX2ewFm2aaDOtYi5.1",
+        "identifier": "766 0321 3991",
+        "access": "8SqpST"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "xcr6bde",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/ppb-necm-kzf",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Трудове навчання",
+        "code": "lqcp4sf",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "sxmlkbb",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/hzx-uqjm-jgs",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "p7abetz",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "kgoe4e7",
+        "teacher": "Чуприна Ганна Василівна",
+        "email": "chuprinaanna1973@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7806047715?pwd=dU4yK3hsK0NkVU44NHVnS1lRckRyZz09",
+        "identifier": "780 604 7715",
+        "access": "E3pHGA"
+      },
+      {
+        "name": "Харківщинознавство",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "class": "8-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "6c6hwfy",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
+      },
+      {
+        "name": "Українська література",
+        "code": "i6hknnq",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "494 314 2504",
+        "access": "111111"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "fvwyevu",
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09",
+        "identifier": "575 918 7997",
+        "access": "4NaLbM"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Алгебра",
+        "code": "hwcuehc",
+        "teacher": "Чуприна Ганна Василівна",
+        "email": "chuprinaanna1973@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7806047715?pwd=dU4yK3hsK0NkVU44NHVnS1lRckRyZz09",
+        "identifier": "780 604 7715",
+        "access": "E3pHGA"
+      },
+      {
+        "name": "Геометрія",
+        "code": "c7r7aqv",
+        "teacher": "Чуприна Ганна Василівна",
+        "email": "chuprinaanna1973@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7806047715?pwd=dU4yK3hsK0NkVU44NHVnS1lRckRyZz09",
+        "identifier": "780 604 7715",
+        "access": "E3pHGA"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "mjjp7jp",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76903831007?pwd=rnCbUu6m8qvTglhe2GUZDvgTpSDUNq.1",
+        "identifier": "769 0383 1007",
+        "access": "5cSYwd"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "xcr6bde",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/ppb-necm-kzf",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Трудове навчання",
+        "code": "lqcp4sf",
+        "teacher": "Калугіна Лариса Василівна",
+        "email": "lkalugina05@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9147802892?pwd=RG0yNXNiSkxXaHAzQWZOajdMZ0hrQT09",
+        "identifier": "914 780 2892",
+        "access": "9E4xQU"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "ixfe2tz",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/vug-aeum-qtx",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "lzolptm",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "23iyw5r",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      },
+      {
+        "name": "Харківщинознавство",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "class": "9-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "w3tf3lq",
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/78383951632?pwd=XPmZzcBJ8wHtMN0oBaa7QPlx4wwWax.1",
+        "identifier": "783 8395 1632",
+        "access": "1pNT9R"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "uyo4tkj",
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "5cwvxlq",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Основи правознавства",
+        "code": "jgpllww",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "hdj3vp4",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/jrv-njwt-dvm",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Геометрія",
+        "code": "jd75rdg",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/jrv-njwt-dvm",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "tqckzwt",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76790238508?pwd=Yq5uhyNu6mS0n7XTbk7Tay8IvF2XyO.1",
+        "identifier": "767 9023 8508",
+        "access": "0gFaU7"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "67r43o2",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "ym2wwkk",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/kkb-dgit-zzh",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "gybzpzt",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "idem2qa",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "class": "9-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "scyreha",
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76961029450?pwd=xriKSpfDBuPMUcR8laolF2eoktaacO.1",
+        "identifier": "769 6102 9450",
+        "access": "p7RmjQ"
+      },
+      {
+        "name": "Українська література",
+        "code": "kccwwbo",
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76961029450?pwd=xriKSpfDBuPMUcR8laolF2eoktaacO.1",
+        "identifier": "769 6102 9450",
+        "access": "p7RmjQ"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "olhnc6c",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "rofa7wp",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Конюшенко Лілія Миколаївна",
+        "email": "lilakonushenko@gmail.com",
+        "conference": "https://us05web.zoom.us/j/82074882828?pwd=HRi9dtTjuePPbcSdDabQWENwnqtIZ4.1",
+        "identifier": "820 7488 2828",
+        "access": "5Jx46x"
+      },
+      {
+        "name": "Основи правознавства",
+        "code": "jgpllww",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "hdj3vp4",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/jrv-njwt-dvm",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Геометрія",
+        "code": "jd75rdg",
+        "teacher": "Великожон Віра Григорівна",
+        "email": "mathinf140@gmail.com",
+        "conference": "https://meet.google.com/jrv-njwt-dvm",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія",
+        "code": "vefickm",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76201919311?pwd=SWcPqTmLV40Wcf0z3LbyVlAvo5Zbzh.1",
+        "identifier": "762 0191 9311",
+        "access": "6tBcij"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "5ispqcr",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/znh-nkim-xgd",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "ra5gko4",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Основи здоров’я",
+        "code": "idem2qa",
+        "teacher": "Маганова Наталя Володимирівна",
+        "email": "natalkamaganova@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
+        "identifier": "752 021 1922",
+        "access": "4VLy6S"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "class": "10-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "p7sojbp",
+        "teacher": "Курганська Світлана Іванівна ",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/77203235435?pwd=PjBTzKapb8pMlDUOeAxhtaNYKuYS3Q.1",
+        "identifier": "772 0323 5435",
+        "access": "Q4rdgV"
+      },
+      {
+        "name": "Українська література",
+        "code": "c7zn5pt",
+        "teacher": "Курганська Світлана Іванівна ",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/77203235435?pwd=PjBTzKapb8pMlDUOeAxhtaNYKuYS3Q.1",
+        "identifier": "772 0323 5435",
+        "access": "Q4rdgV"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "j3sdc65",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "tr3qiiy",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Громадянська освіта",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "v2qjgrd",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Геометрія",
+        "code": "v2qjgrd",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія і екологія",
+        "code": "f63faf7",
+        "teacher": "Ліхоман Інн Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232  216  9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/71661192735?pwd=nR8jjfxQ1WuI1MWvJkOsWM4PQUNjfv.1",
+        "identifier": "716 6119 2735",
+        "access": "5qdjWT"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "v2qjgrd",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "h4llctx",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/ygd-ehms-jia",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "wq6gcvi",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Захист України (хлопці)",
+        "code": "d6baiqc",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4469030150?pwd=bydmWoFybRRtMxuct3oU5AfDm1Lbmk.1",
+        "identifier": "446 903 0150",
+        "access": "aE15b7"
+      },
+      {
+        "name": "Захист України (дівчата)",
+        "code": "qrlknt5",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "class": "10-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "j3sdc65",
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "qmzm6ro",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Громадянська освіта",
+        "code": "lhimpot",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "mnrwsr5",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Геометрія",
+        "code": "mnrwsr5",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія і екологія",
+        "code": "74bnsit",
+        "teacher": "Ліхоман Інна миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/77183555217?pwd=U9ijnkbMjJ5iu7GcgLymPZyVie5wQr.1",
+        "identifier": "771 8355 5217",
+        "access": "6vBAYq"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "mnrwsr5",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "kxapiml",
+        "teacher": "Дмітрієва Лариса Олександрівна ",
+        "email": "Larisa1005@gmai.com",
+        "conference": "http://meet.google.com/orv-wodi-xnm",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "5vejovr",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Захист України (хлопці)",
+        "code": "odce6fg",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4469030150?pwd=bydmWoFybRRtMxuct3oU5AfDm1Lbmk.1",
+        "identifier": "446 903 0150",
+        "access": "aE15b7"
+      },
+      {
+        "name": "Захист України (дівчата)",
+        "code": "qrlknt5",
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "983 389 1020",
+        "access": "123456"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "class": "11-A клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Українська література",
+        "code": "Завдання на платформі Human",
+        "teacher": "Колосовська Тетяна Миколаївна ",
+        "email": "kolosovskaya1967@gmail.com",
+        "conference": "https://us04web.zoom.us/j/3912622926?pwd=WVNJNlh3dGtKbTltRVNmZER0eUhFdz09",
+        "identifier": "391 262 2926",
+        "access": "6qsKDC"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "494 314 2504",
+        "access": "111111"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "dbwav6z",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "5i74iy7",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "5i74iy7",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "2fmux6t",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/87115256191?pwd=RGtMdk5sRnV2NTI1TGZIYlZ2a0x4Zz09",
+        "identifier": "871 1525 6191",
+        "access": "766577"
+      },
+      {
+        "name": "Геометрія",
+        "code": "2fmux6t",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/87115256191?pwd=RGtMdk5sRnV2NTI1TGZIYlZ2a0x4Zz09",
+        "identifier": "871 1525 6191",
+        "access": "766577"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія і екологія",
+        "code": "vgq7j3m",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Астрономія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "7yhnsyg",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "https://meet.google.com/uts-zihn-uom",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "qjrxspv",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Захист України (хлопці)",
+        "code": "vtekzqr",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4469030150?pwd=bydmWoFybRRtMxuct3oU5AfDm1Lbmk.1",
+        "identifier": "446 903 0150",
+        "access": "aE15b7"
+      },
+      {
+        "name": "Захист України (дівчата)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "class": "11-Б клас",
+    "subjects": [
+      {
+        "name": "Українська мова",
+        "code": "o3z2kna",
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76323652522?pwd=Tqa7PgrpxQFQDg0r4SfG7POlwVbcuH.1",
+        "identifier": "763 2365 2522",
+        "access": "y54xcW"
+      },
+      {
+        "name": "Українська література",
+        "code": "lhvhtq7",
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76323652522?pwd=Tqa7PgrpxQFQDg0r4SfG7POlwVbcuH.1",
+        "identifier": "763 2365 2522",
+        "access": "y54xcW"
+      },
+      {
+        "name": "Іноземна мова (англійська)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "494 314 2504",
+        "access": "111111"
+      },
+      {
+        "name": "Зарубіжна література",
+        "code": "icyj56j",
+        "teacher": "Токаренко Тетяна Олексіївна",
+        "email": "tatyanatokarenko140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/2096562844?pwd=VVFzc1lyWGp5YU1YTTNJdU4wVnA5Zz09",
+        "identifier": "209 656 2844",
+        "access": "2801"
+      },
+      {
+        "name": "Історія України",
+        "code": "5i74iy7",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Всесвітня історія",
+        "code": "5i74iy7",
+        "teacher": "Мянд Олександр Володимирович",
+        "email": "aleх.strannyk.1950@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73230946590?pwd=jabV2EzdHugqxh5D65ArwjAMLEydFI.1",
+        "identifier": "732 3094 6590",
+        "access": "111111"
+      },
+      {
+        "name": "Алгебра",
+        "code": "25t5j4z",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/84209164192?pwd=bVRwRlN3dUtqaXVmOWFqS2xuZ3dHZz09",
+        "identifier": "842 0916 4192",
+        "access": "859958"
+      },
+      {
+        "name": "Геометрія",
+        "code": "25t5j4z",
+        "teacher": "Собко Наталія Віталіївна",
+        "email": "n.sobko.33@gmail.com",
+        "conference": "https://us02web.zoom.us/j/84209164192?pwd=bVRwRlN3dUtqaXVmOWFqS2xuZ3dHZz09",
+        "identifier": "842 0916 4192",
+        "access": "859958"
+      },
+      {
+        "name": "Географія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Шумейко Олена Григорівна",
+        "email": "Shumeykoelena@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9143285160?pwd=RjVQemFYUVp0YmNBTVJUMzFNNDd4dz09",
+        "identifier": "914 328 5160",
+        "access": "2121"
+      },
+      {
+        "name": "Біологія і екологія",
+        "code": "hqjtygz",
+        "teacher": "Ліхоман Інна Миколаївна",
+        "email": "lihomaninna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/2322169532?pwd=VjZMTmg5cHNra0xmZDICbzdxbVNzZz09",
+        "identifier": "232 216 9532",
+        "access": "wa6c7b"
+      },
+      {
+        "name": "Фізика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Астрономія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Хімія",
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
+      },
+      {
+        "name": "Інформатика",
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
+      },
+      {
+        "name": "Мистецтво",
+        "code": "6ty3r23",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/jnf-qjyc-cpo",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Фізична культура",
+        "code": "6h7hxaw",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Захист України (хлопці)",
+        "code": "66p3fju",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4469030150?pwd=bydmWoFybRRtMxuct3oU5AfDm1Lbmk.1",
+        "identifier": "446 903 0150",
+        "access": "aE15b7"
+      },
+      {
+        "name": "Захист України (дівчата)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
+      }
+    ]
+  }
+]
